@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My name is Piyush Chandra. Hello!
+![self made meme](https://github.com/piyushchandra357/github-slideshow/blob/my-slide/sed.jpeg)
 Use the left arrow to go back!
